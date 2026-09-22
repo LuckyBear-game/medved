@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /site/
+Allow: /
+
+Sitemap: https://luckybear-medved.lb-game.ru/sitemap.xml
